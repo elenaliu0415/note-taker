@@ -1,17 +1,32 @@
 [
     {
-        "id": "abc123",
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "Oranges",
-        "text": "Oranges are not apples",
-        "id": "0fe5a17f-6505-4684-9b8a-082e75f184a8"
-    },
-    {
         "title": "Git push hw",
         "text": "push homework to github",
         "id": "69d631c7-eb85-4b74-aae8-4edd567c5025"
+    },
+    {
+        "title": "Grocery Shopping ",
+        "text": "- Silk oat milk \n- Chicken \n- Shrimp \n- Mushrooms \n- Lettuce",
+        "id": "0ff20cfe-6bca-47f0-9c66-9a3a9fbb33ce"
+    },
+    {
+        "title": "Deploy Note Taker on Heroku ",
+        "text": "Trouble shoot the errors",
+        "id": "0fcbe518-5f64-4336-9154-218d32b7cb21"
+    },
+    {
+        "title": "Update Readme.md",
+        "text": "Create titles and contents",
+        "id": "f517d861-9e01-4bd7-9bd1-ecd802633372"
+    },
+    {
+        "title": "Review Express.js ",
+        "text": "Review the activities in 12-Express ",
+        "id": "049e554f-8f9e-478c-b066-50e250a007da"
+    },
+    {
+        "title": "Review/Preview SQL",
+        "text": "- Preview SQL JOIN content \n- Review previous SQL activities ",
+        "id": "4f4d807c-9f05-43ac-8824-beeb1e57549f"
     }
 ]

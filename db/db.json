@@ -1,7 +1,17 @@
 [
-  {
-    "id": "abc123",
-    "title": "Test Title",
-    "text": "Test text"
-  }
+    {
+        "id": "abc123",
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Oranges",
+        "text": "Oranges are not apples",
+        "id": "0fe5a17f-6505-4684-9b8a-082e75f184a8"
+    },
+    {
+        "title": "Git push hw",
+        "text": "push homework to github",
+        "id": "69d631c7-eb85-4b74-aae8-4edd567c5025"
+    }
 ]
